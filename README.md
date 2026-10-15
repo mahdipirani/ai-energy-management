@@ -1,47 +1,73 @@
-# ai-energy-management
-Source code and practical examples for the book Artificial Intelligence in Energy Management.
-Artificial Intelligence in Energy Management
+# AI in Energy Management
 
-Source code and practical implementations accompanying the book Artificial Intelligence in Energy Management.
+Source code, practical examples, and supplementary materials for the book *Artificial Intelligence in Energy Management*.
 
-About This Repository
+## About This Repository
 
-This repository provides the source code, practical examples, and supplementary materials associated with the book.
+This repository accompanies the book *Artificial Intelligence in Energy Management*. It provides Python source code, practical implementations, and supporting datasets to help readers understand and apply artificial intelligence techniques to energy management problems.
 
-The repository is organized by chapter to help readers locate and run the corresponding examples.
+The repository is organized by chapter, making it easier to locate the code and data associated with each topic.
 
-Repository Structure
+## Repository Structure
 
-chapter 1/ — Examples for Chapter 1
+```text
+ai-energy-management/
+├── chapter-1/
+├── chapter-2/
+├── chapter-3/
+├── chapter-4/
+├── chapter-5/
+├── chapter-6/
+├── chapter-7/
+├── chapter-8/
+├── chapter-9/
+├── chapter-10/
+├── chapter-11/
+├── chapter-12/
+├── chapter-13/
+├── chapter-14/
+├── chapter-15/
+├── chapter-16/
+├── chapter-17/
+├── chapter-18/
+├── chapter-19/
+└── chapter-20/
+```
 
-chapter 2/ — Examples for Chapter 2
+Each chapter directory contains the corresponding source code and, where applicable, supplementary data files.
 
-datasets/ — Sample datasets used in the examples
+## Getting Started
 
-requirements.txt — Python dependencies, where applicable
+1. Install Python if it is required by the example you want to run.
+2. Open the directory corresponding to the relevant book chapter.
+3. Review the source code and any accompanying data files.
+4. Install the dependencies required by that example.
+5. Run the example according to its specific requirements.
 
-The repository structure will be updated as the book's examples are added.
+**Note:** Dependencies and execution requirements may differ between examples. Check the relevant source code before running it.
 
-Getting Started
+## Reproducibility
 
-Install a compatible version of Python, where required.
+The examples are intended to support practical learning and experimentation. Where applicable, relevant input data, software dependencies, execution instructions, and expected outputs should be documented alongside the examples.
 
-Review the instructions provided in each chapter's directory.
+Results may vary depending on the software environment, input data, and configuration used.
 
-Install the dependencies required for the example you want to run.
+## Intended Use
 
-Follow the example-specific execution instructions.
+The materials are intended for educational, research, and practical experimentation in artificial intelligence and energy management.
 
-Reproducibility
+Readers should verify the suitability of any example before applying it to real-world energy systems or operational decisions.
 
-Software versions, input data requirements, execution instructions, and expected outputs will be documented alongside the relevant examples whenever applicable.
+## License
 
-License
+This repository includes a `LICENSE` file. Please refer to that file for the applicable licensing terms.
 
-The licensing terms for the source code and supplementary materials will be specified here.
+The licensing status of third-party datasets and other supplementary materials may differ from that of the source code. Users are responsible for complying with the applicable terms.
 
-Reference
+## Reference
 
-This repository accompanies the book Artificial Intelligence in Energy Management.
+This repository accompanies the book *Artificial Intelligence in Energy Management*.
 
-For questions or corrections, please use the repository's GitHub Issues section, if enabled.
+For questions, corrections, or suggestions, please use the [GitHub Issues](https://github.com/mahdipirani/ai-energy-management/issues) section, if enabled.
+
+**Repository:** https://github.com/mahdipirani/ai-energy-management
